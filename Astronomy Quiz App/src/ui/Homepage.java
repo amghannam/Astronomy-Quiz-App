@@ -86,9 +86,8 @@ public class Homepage extends JFrame {
 		btnBegin.setToolTipText("Click here to start the quiz. Once you start, you cannot go back.");
 		btnBegin.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				FirstQuestion nextFrame = new FirstQuestion();
-				nextFrame.setVisible(true); 
 				dispose();
+				new FirstQuestion().setVisible(true);
 				Timer.start();
 			}
 		});
