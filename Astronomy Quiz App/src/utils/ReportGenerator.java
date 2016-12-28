@@ -16,7 +16,7 @@ import java.util.concurrent.ThreadLocalRandom;
  *
  */
 public class ReportGenerator {
-	private static int reportId = 1;
+	private static int reportId = ThreadLocalRandom.current().nextInt(1, 1000 + 1);;
 	private static boolean hasGeneratedReport = false; 
 
 	private static String constructReport(Result result) {
@@ -63,7 +63,7 @@ public class ReportGenerator {
 	}
 
 	private static void updateId() {
-		reportId = ThreadLocalRandom.current().nextInt(2, 1000 + 1);
+		reportId = ThreadLocalRandom.current().nextInt(1, 1000 + 1);
 	}
 	
 	public static boolean hasGeneratedReport() {

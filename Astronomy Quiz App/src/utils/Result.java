@@ -23,7 +23,7 @@ public class Result {
 	}
 	
 	public int getScore() {
-		return score; 
+		return score;
 	}
 	
 	public int getPercentage() {
