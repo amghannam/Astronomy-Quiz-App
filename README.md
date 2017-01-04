@@ -14,24 +14,21 @@ In this application, the user will be presented with 15 multiple-choice question
 
 ## Sample Images 
 
-### Main menu
-
 <p align="center">
+<b>Main menu</b>
   <br>
   <img src="http://i.imgur.com/fVr7hiy.png">
   <br><br>
 </p>
 
-### Sample question
-
 <p align="center">
+<b>Sample question</b>
   <img src="http://i.imgur.com/bzNnymo.png">
   <br><br>
 </p>
 
-### Scoreboard 
-
 <p align="center">
+<b>Scoreboard</b>
   <img src="http://i.imgur.com/CwTjWXP.png">
   <br><br>
 </p>
