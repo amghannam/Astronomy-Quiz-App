@@ -15,13 +15,26 @@ In this application, the user will be presented with 15 multiple-choice question
 ## Sample Images 
 
 ### Main menu
-![alt tag] (http://i.imgur.com/fVr7hiy.png)
+
+<p align="center">
+  <br>
+  <img src="http://i.imgur.com/fVr7hiy.png">
+  <br><br>
+</p>
 
 ### Sample question
-![alt tag] (http://i.imgur.com/bzNnymo.png)
+
+<p align="center">
+  <img src="http://i.imgur.com/bzNnymo.png">
+  <br><br>
+</p>
 
 ### Scoreboard 
-![alt tag] (http://i.imgur.com/CwTjWXP.png)
+
+<p align="center">
+  <img src="http://i.imgur.com/CwTjWXP.png">
+  <br><br>
+</p>
 
 ## Help
 
