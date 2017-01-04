@@ -23,12 +23,14 @@ In this application, the user will be presented with 15 multiple-choice question
 
 <p align="center">
 <b>Sample question</b>
+<br>
   <img src="http://i.imgur.com/bzNnymo.png">
   <br><br>
 </p>
 
 <p align="center">
 <b>Scoreboard</b>
+<br>
   <img src="http://i.imgur.com/CwTjWXP.png">
   <br><br>
 </p>
