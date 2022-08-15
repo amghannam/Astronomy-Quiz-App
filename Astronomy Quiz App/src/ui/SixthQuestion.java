@@ -51,7 +51,7 @@ public class SixthQuestion extends JFrame {
 		pnlQuestion.setLayout(null);
 		
 		JLabel lblQuestionText = new JLabel("<html>The Moon is known to be moving away from Earth"
-				+ " at close to 3 cm per century. Which of the following phenomena is directly"
+				+ " at close to 3.8 cm per year. Which of the following phenomena is directly"
 				+ " responsible for this recession?");
 		lblQuestionText.setBounds(10, 25, 394, 44);
 		pnlQuestion.add(lblQuestionText);
